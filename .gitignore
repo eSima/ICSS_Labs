@@ -1,5 +1,5 @@
-./.git
-./WinForms/bin
-./WinForms/obj
-./WinForms/.vs
+.git
+WinForms/bin
+WinForms/obj
+WinForms/.vs
 
