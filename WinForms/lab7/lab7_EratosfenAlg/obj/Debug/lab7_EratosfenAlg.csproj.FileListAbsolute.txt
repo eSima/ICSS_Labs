@@ -1,0 +1,8 @@
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab7\lab7_EratosfenAlg\bin\Debug\lab7_EratosfenAlg.exe.config
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab7\lab7_EratosfenAlg\bin\Debug\lab7_EratosfenAlg.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab7\lab7_EratosfenAlg\bin\Debug\lab7_EratosfenAlg.pdb
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab7\lab7_EratosfenAlg\obj\Debug\lab7_EratosfenAlg.Form1.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab7\lab7_EratosfenAlg\obj\Debug\lab7_EratosfenAlg.Properties.Resources.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab7\lab7_EratosfenAlg\obj\Debug\lab7_EratosfenAlg.csproj.GenerateResource.cache
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab7\lab7_EratosfenAlg\obj\Debug\lab7_EratosfenAlg.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab7\lab7_EratosfenAlg\obj\Debug\lab7_EratosfenAlg.pdb

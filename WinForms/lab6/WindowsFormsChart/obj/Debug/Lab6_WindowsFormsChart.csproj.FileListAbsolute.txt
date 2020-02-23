@@ -16,3 +16,12 @@ C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\Win
 C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\WindowsFormsChart\obj\Debug\Lab6_WindowsFormsChart.csproj.GenerateResource.cache
 C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\WindowsFormsChart\obj\Debug\WindowsFormsChart.exe
 C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\WindowsFormsChart\obj\Debug\WindowsFormsChart.pdb
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab6\WindowsFormsChart\bin\Debug\WindowsFormsChart.exe.config
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab6\WindowsFormsChart\bin\Debug\WindowsFormsChart.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab6\WindowsFormsChart\bin\Debug\WindowsFormsChart.pdb
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab6\WindowsFormsChart\obj\Debug\Lab6_WindowsFormsChart.csprojAssemblyReference.cache
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab6\WindowsFormsChart\obj\Debug\WindowsFormsChart.Form1.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab6\WindowsFormsChart\obj\Debug\WindowsFormsChart.Properties.Resources.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab6\WindowsFormsChart\obj\Debug\Lab6_WindowsFormsChart.csproj.GenerateResource.cache
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab6\WindowsFormsChart\obj\Debug\WindowsFormsChart.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab6\WindowsFormsChart\obj\Debug\WindowsFormsChart.pdb

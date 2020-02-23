@@ -1,0 +1,9 @@
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab7_WinAsynchMethod\bin\Debug\lab7_WinAsynchMethod.exe.config
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab7_WinAsynchMethod\bin\Debug\lab7_WinAsynchMethod.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab7_WinAsynchMethod\bin\Debug\lab7_WinAsynchMethod.pdb
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab7_WinAsynchMethod\obj\Debug\lab7_WinAsynchMethod.csprojAssemblyReference.cache
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab7_WinAsynchMethod\obj\Debug\lab7_WinAsynchMethod.Form1.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab7_WinAsynchMethod\obj\Debug\lab7_WinAsynchMethod.Properties.Resources.resources
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab7_WinAsynchMethod\obj\Debug\lab7_WinAsynchMethod.csproj.GenerateResource.cache
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab7_WinAsynchMethod\obj\Debug\lab7_WinAsynchMethod.exe
+C:\Users\Артемий\Desktop\C#\WinForms\lab6\WinForms\ICSS_Labs\WinForms\lab7_WinAsynchMethod\obj\Debug\lab7_WinAsynchMethod.pdb
