@@ -1,0 +1,11 @@
+D:\Lиs\вуз\4 курс\ПОинфокомСист\lab4\Lab4_EditPerson\EditPerson\bin\Debug\EditPerson.exe.config
+D:\Lиs\вуз\4 курс\ПОинфокомСист\lab4\Lab4_EditPerson\EditPerson\bin\Debug\EditPerson.exe
+D:\Lиs\вуз\4 курс\ПОинфокомСист\lab4\Lab4_EditPerson\EditPerson\bin\Debug\EditPerson.pdb
+D:\Lиs\вуз\4 курс\ПОинфокомСист\lab4\Lab4_EditPerson\EditPerson\obj\Debug\Lab4_EditPerson.csprojAssemblyReference.cache
+D:\Lиs\вуз\4 курс\ПОинфокомСист\lab4\Lab4_EditPerson\EditPerson\obj\Debug\EditPerson.EditPersonForm.resources
+D:\Lиs\вуз\4 курс\ПОинфокомСист\lab4\Lab4_EditPerson\EditPerson\obj\Debug\EditPerson.Form1.resources
+D:\Lиs\вуз\4 курс\ПОинфокомСист\lab4\Lab4_EditPerson\EditPerson\obj\Debug\EditPerson.Properties.Resources.resources
+D:\Lиs\вуз\4 курс\ПОинфокомСист\lab4\Lab4_EditPerson\EditPerson\obj\Debug\Lab4_EditPerson.csproj.GenerateResource.cache
+D:\Lиs\вуз\4 курс\ПОинфокомСист\lab4\Lab4_EditPerson\EditPerson\obj\Debug\Lab4_EditPerson.csproj.CoreCompileInputs.cache
+D:\Lиs\вуз\4 курс\ПОинфокомСист\lab4\Lab4_EditPerson\EditPerson\obj\Debug\EditPerson.exe
+D:\Lиs\вуз\4 курс\ПОинфокомСист\lab4\Lab4_EditPerson\EditPerson\obj\Debug\EditPerson.pdb

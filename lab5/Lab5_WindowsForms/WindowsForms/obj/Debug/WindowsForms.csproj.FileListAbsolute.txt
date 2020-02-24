@@ -1,0 +1,11 @@
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.ResolveComReference.cache
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb

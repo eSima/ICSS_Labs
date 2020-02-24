@@ -1,0 +1,15 @@
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\PDFReader\PDFReader\bin\Debug\PDFReader.exe.config
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\PDFReader\PDFReader\bin\Debug\PDFReader.exe
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\PDFReader\PDFReader\bin\Debug\PDFReader.pdb
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\PDFReader\PDFReader\bin\Debug\Interop.AcroPDFLib.dll
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\PDFReader\PDFReader\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\PDFReader\PDFReader\obj\Debug\PDFReader.csprojAssemblyReference.cache
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\PDFReader\PDFReader\obj\Debug\Interop.AcroPDFLib.dll
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\PDFReader\PDFReader\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\PDFReader\PDFReader\obj\Debug\PDFReader.csproj.ResolveComReference.cache
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\PDFReader\PDFReader\obj\Debug\PDFReader.Form1.resources
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\PDFReader\PDFReader\obj\Debug\PDFReader.Properties.Resources.resources
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\PDFReader\PDFReader\obj\Debug\PDFReader.csproj.GenerateResource.cache
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\PDFReader\PDFReader\obj\Debug\PDFReader.csproj.CoreCompileInputs.cache
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\PDFReader\PDFReader\obj\Debug\PDFReader.exe
+D:\Lиs\вуз\4 курс\ПОинфокомСист\5лаба\PDFReader\PDFReader\obj\Debug\PDFReader.pdb

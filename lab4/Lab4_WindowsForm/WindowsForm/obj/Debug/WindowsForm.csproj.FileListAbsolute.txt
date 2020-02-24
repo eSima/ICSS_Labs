@@ -1,0 +1,10 @@
+D:\Lиs\вуз\4 курс\ПОинфокомСист\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe.config
+D:\Lиs\вуз\4 курс\ПОинфокомСист\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe
+D:\Lиs\вуз\4 курс\ПОинфокомСист\WindowsForm\WindowsForm\bin\Debug\WindowsForm.pdb
+D:\Lиs\вуз\4 курс\ПОинфокомСист\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Form1.resources
+D:\Lиs\вуз\4 курс\ПОинфокомСист\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Form2.resources
+D:\Lиs\вуз\4 курс\ПОинфокомСист\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+D:\Lиs\вуз\4 курс\ПОинфокомСист\WindowsForm\WindowsForm\obj\Debug\WindowsForm.csproj.GenerateResource.cache
+D:\Lиs\вуз\4 курс\ПОинфокомСист\WindowsForm\WindowsForm\obj\Debug\WindowsForm.csproj.CoreCompileInputs.cache
+D:\Lиs\вуз\4 курс\ПОинфокомСист\WindowsForm\WindowsForm\obj\Debug\WindowsForm.exe
+D:\Lиs\вуз\4 курс\ПОинфокомСист\WindowsForm\WindowsForm\obj\Debug\WindowsForm.pdb

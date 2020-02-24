@@ -1,0 +1,10 @@
+D:\Lиs\вуз\4 курс\ПОинфокомСист\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.exe.config
+D:\Lиs\вуз\4 курс\ПОинфокомСист\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.exe
+D:\Lиs\вуз\4 курс\ПОинфокомСист\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.pdb
+D:\Lиs\вуз\4 курс\ПОинфокомСист\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csprojAssemblyReference.cache
+D:\Lиs\вуз\4 курс\ПОинфокомСист\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.Form1.resources
+D:\Lиs\вуз\4 курс\ПОинфокомСист\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.Properties.Resources.resources
+D:\Lиs\вуз\4 курс\ПОинфокомСист\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.GenerateResource.cache
+D:\Lиs\вуз\4 курс\ПОинфокомСист\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.CoreCompileInputs.cache
+D:\Lиs\вуз\4 курс\ПОинфокомСист\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.exe
+D:\Lиs\вуз\4 курс\ПОинфокомСист\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.pdb
