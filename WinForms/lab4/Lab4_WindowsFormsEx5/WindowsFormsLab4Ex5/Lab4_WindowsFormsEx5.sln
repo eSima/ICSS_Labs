@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsLab4Ex5", "..\..\..\..\ПОинфокомСист\lab4\WindowsFormsLab4Ex5\WindowsFormsLab4Ex5\WindowsFormsLab4Ex5.csproj", "{D38C6A26-F1C2-4E37-91BD-A31E67B9B75B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4_WindowsFormsEx5", "Lab4_WindowsFormsEx5.csproj", "{D38C6A26-F1C2-4E37-91BD-A31E67B9B75B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D8F45A5F-DA1E-4EE1-A2D5-D3D952F5654D}
+		SolutionGuid = {96641B32-0DC1-49DA-9365-1D42E5F98109}
 	EndGlobalSection
 EndGlobal
