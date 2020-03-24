@@ -4,7 +4,10 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using static GuestResponse;
+using System.Data;
+using System.Data.Entity;
+
+
 
 public partial class Reg : System.Web.UI.Page
 {
@@ -21,7 +24,8 @@ public partial class Reg : System.Web.UI.Page
                 Report report1 = new Report(TextBoxTitle.Text,
                TextBoxTextAnnot.Text);
                 rsvp.Reports.Add(report1);
-            }            if (TextBoxTitle2.Text != "" || TextBoxTextAnnot2.Text != "")
+            }
+            if (TextBoxTitle2.Text != "" || TextBoxTextAnnot2.Text != "")
             {
                 Report report2 = new Report(TextBoxTitle2.Text,
                TextBoxTextAnnot2.Text);
@@ -35,7 +39,8 @@ public partial class Reg : System.Web.UI.Page
             }
             catch (Exception ex)
             {
-                Response.Redirect("Ошибка " + ex.Message);
+                WingtipToys.Logic.ExceptionUtility.LogException(ex, "Reg.aspx.cs");
+                // Response.Redirect("~/Start.aspx");
             }
             ResponseRepository.GetRepository().AddResponse(rsvp);
             if (rsvp.WillAttend.HasValue && rsvp.WillAttend.Value)

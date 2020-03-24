@@ -1,0 +1,48 @@
+********** 24.03.2020 22:33:58 **********
+Exception Type: System.Data.Entity.ModelConfiguration.ModelValidationException
+Exception: One or more validation errors were detected during model generation:
+
+CodeFirstNamespace.GuestResponse: : EntityType 'GuestResponse' has no key defined. Define the key for this EntityType.
+GuestResponses: EntityType: EntitySet 'GuestResponses' is based on type 'GuestResponse' that has no keys defined.
+
+Source: Reg.aspx.cs
+Stack Trace: 
+   в System.Data.Entity.Core.Metadata.Edm.EdmModel.Validate()
+   в System.Data.Entity.DbModelBuilder.Build(DbProviderManifest providerManifest, DbProviderInfo providerInfo)
+   в System.Data.Entity.DbModelBuilder.Build(DbConnection providerConnection)
+   в System.Data.Entity.Internal.LazyInternalContext.CreateModel(LazyInternalContext internalContext)
+   в System.Data.Entity.Internal.RetryLazy`2.GetValue(TInput input)
+   в System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   в System.Data.Entity.Internal.InternalContext.Initialize()
+   в System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   в System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   в System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   в System.Data.Entity.Internal.Linq.InternalSet`1.ActOnSet(Action action, EntityState newState, Object entity, String methodName)
+   в System.Data.Entity.Internal.Linq.InternalSet`1.Add(Object entity)
+   в System.Data.Entity.DbSet`1.Add(TEntity entity)
+   в Reg.Page_Load(Object sender, EventArgs e) в D:\Lиs\вуз\4 курс\ICSS_Labs\ASPNet\ASPNet\RSVP1\Reg.aspx.cs:строка 37
+
+********** 24.03.2020 22:34:06 **********
+Exception Type: System.Data.Entity.ModelConfiguration.ModelValidationException
+Exception: One or more validation errors were detected during model generation:
+
+CodeFirstNamespace.GuestResponse: : EntityType 'GuestResponse' has no key defined. Define the key for this EntityType.
+GuestResponses: EntityType: EntitySet 'GuestResponses' is based on type 'GuestResponse' that has no keys defined.
+
+Source: Reg.aspx.cs
+Stack Trace: 
+   в System.Data.Entity.Core.Metadata.Edm.EdmModel.Validate()
+   в System.Data.Entity.DbModelBuilder.Build(DbProviderManifest providerManifest, DbProviderInfo providerInfo)
+   в System.Data.Entity.DbModelBuilder.Build(DbConnection providerConnection)
+   в System.Data.Entity.Internal.LazyInternalContext.CreateModel(LazyInternalContext internalContext)
+   в System.Data.Entity.Internal.RetryLazy`2.GetValue(TInput input)
+   в System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   в System.Data.Entity.Internal.InternalContext.Initialize()
+   в System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   в System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   в System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   в System.Data.Entity.Internal.Linq.InternalSet`1.ActOnSet(Action action, EntityState newState, Object entity, String methodName)
+   в System.Data.Entity.Internal.Linq.InternalSet`1.Add(Object entity)
+   в System.Data.Entity.DbSet`1.Add(TEntity entity)
+   в Reg.Page_Load(Object sender, EventArgs e) в D:\Lиs\вуз\4 курс\ICSS_Labs\ASPNet\ASPNet\RSVP1\Reg.aspx.cs:строка 37
+
